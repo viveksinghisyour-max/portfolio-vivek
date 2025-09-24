@@ -1,4 +1,5 @@
 // Cybersecurity Portfolio JavaScript - Vivek Sikarwar
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 class CyberSecurityPortfolio {
     constructor() {
